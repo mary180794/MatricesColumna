@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project >
+    <file_marker column=" 28" line=" 73" >
+      <vfs_project />
+      <vfs_file>C:\Users\marina\Documents\Mat\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 68" >
+      <vfs_project />
+      <vfs_file>C:\Users\marina\Documents\Mat\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 22" line=" 60" >
+      <vfs_project />
+      <vfs_file>C:\Users\marina\Documents\Mat\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 68" >
+      <vfs_project />
+      <vfs_file>C:\Users\marina\Documents\Mat\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\marina\Documents\MatricesConcurrente\maticesconcurrente.gpr</vfs_project>
+      <vfs_file>C:\Users\marina\Documents\MatricesConcurrente\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 34" line=" 72" >
+      <vfs_project>C:\Users\marina\Documents\MatricesConcurrente\maticesconcurrente.gpr</vfs_project>
+      <vfs_file>C:\Users\marina\Documents\MatricesConcurrente\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 24" line=" 19" >
+      <vfs_project>C:\Users\marina\Documents\MatricesConcurrente\maticesconcurrente.gpr</vfs_project>
+      <vfs_file>C:\Users\marina\Documents\MatricesConcurrente\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 26" >
+      <vfs_project>C:\Users\marina\Documents\MatricesConcurrente\maticesconcurrente.gpr</vfs_project>
+      <vfs_file>C:\Users\marina\Documents\MatricesConcurrente\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 20" line=" 27" >
+      <vfs_project>C:\Users\marina\Documents\MatricesConcurrente\maticesconcurrente.gpr</vfs_project>
+      <vfs_file>C:\Users\marina\Documents\MatricesConcurrente\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 8" line=" 67" >
+      <vfs_project>C:\Users\marina\Documents\MatricesConcurrente\maticesconcurrente.gpr</vfs_project>
+      <vfs_file>C:\Users\marina\Documents\MatricesConcurrente\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 2" line=" 70" >
+      <vfs_project>C:\Users\marina\Documents\MatricesConcurrente\maticesconcurrente.gpr</vfs_project>
+      <vfs_file>C:\Users\marina\Documents\MatricesConcurrente\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 4" line=" 15" >
+      <vfs_project>C:\Users\marina\Documents\MatricesConcurrente\maticesconcurrente.gpr</vfs_project>
+      <vfs_file>C:\Users\marina\Documents\MatricesConcurrente\src\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
